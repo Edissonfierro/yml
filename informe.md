@@ -56,6 +56,11 @@ Se definieron variables de entorno, puertos, red personalizada y volúmenes pers
 
 Docker Compose crea automáticamente la red `red_wp` y los volúmenes definidos al ejecutar el comando:
 
-```bash
 docker-compose up -d
+![img01](https://github.com/Edissonfierro/yml/blob/main/1.jpg)
 
+![img01](https://github.com/Edissonfierro/yml/blob/main/2.jpg)
+
+![img01](https://github.com/Edissonfierro/yml/blob/main/3.jpg)
+
+![img01](https://github.com/Edissonfierro/yml/blob/main/4.jpg)
