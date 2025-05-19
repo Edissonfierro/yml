@@ -64,3 +64,20 @@ docker-compose up -d
 ![img01](https://github.com/Edissonfierro/yml/blob/main/3.jpg)
 
 ![img01](https://github.com/Edissonfierro/yml/blob/main/4.jpg)
+
+
+## 9. Resultados esperados
+
+- WordPress accesible en el navegador.
+- Acceso exitoso a pgAdmin.
+- Conexión establecida entre WordPress y PostgreSQL.
+- Servidor registrado en pgAdmin.
+- Tabla creada correctamente y datos insertados.
+- Contenedores en estado “Up” usando `docker ps`.
+
+## 10. Bibliografía
+
+- Docker. (n.d.). *Docker networking overview*. https://docs.docker.com/network/
+- pgAdmin. (n.d.). *pgAdmin documentation*. https://www.pgadmin.org/docs/
+- PostgreSQL. (n.d.). *PostgreSQL documentation*. https://www.postgresql.org/docs/
+- WordPress. (n.d.). *WordPress support*. https://wordpress.org/support/
